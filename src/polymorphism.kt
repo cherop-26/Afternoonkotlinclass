@@ -25,9 +25,9 @@ fun main() {
     sh.draw()
 
     var ci =circle()
-    ci.
+    ci.draw()
 
 
     var re = Rectangle()
-
+     re.draw()
 }
